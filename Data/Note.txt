@@ -1,4 +1,5 @@
 Data after argument  dùng để làm cho lượng E xấp xỉ bằng nhau
+#1.
 Ban đầu:
 CK+ Dùng:
 anger 134
@@ -11,15 +12,24 @@ sadness 83
 surprise 248
 
 Lúc sau: dùng flip
-anger 134 -> +116 = 250 
-contempt 53 -> x2 = 106
-disgust 176 -> +73 =249
-fear 74 -> x2 = 148
-happy 206 + 40= 246
-neutral 180 + 60= 240
-sadness 83 +77 = 160
+anger 134 -> +116 = 250 ok
+contempt 53 -> x2 = 106 fip 100 =206 + gauss 50 =256
+disgust 176 -> +73 =249 ok
+fear 74 -> x2 = 148 flip 100 ok =248
+happy 206 + 40= 246 ok
+neutral 180 + 60= 240 ok
+sadness 83 +77 = 160 flip 90 =250
 surprise 248
-
-#2. CK+ after argument: la E theo tung folder
-
-#3. CK+ all ar: la tong hop xep chung img. 
+40 contempt
+30 fear
+#2. Quy trinh la:
+Img-> crop -> rotate-> intensity-> mirror 180-> flipp-> gauss-> CK+ After argument, Ck+ All, CK+ 6E
+#Tong so anh cac E:
+Tong cac anh trong  anger la:  251
+Tong cac anh trong  contempt la:  251
+Tong cac anh trong  sadness la:  245
+Tong cac anh trong  fear la:  254
+Tong cac anh trong  surprise la:  249
+Tong cac anh trong  disgust la:  250
+Tong cac anh trong  happy la:  240
+Tong cac anh trong  neutral la:  241
