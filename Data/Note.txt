@@ -1,0 +1,21 @@
+Data after argument  dùng để làm cho lượng E xấp xỉ bằng nhau
+Ban đầu:
+CK+ Dùng:
+anger 134
+contempt 53
+disgust 176
+fear 74
+happy 206
+neutral 180
+sadness 83
+surprise 248
+
+Lúc sau: dùng flip
+anger 134 -> +116 = 250 (+116)
+contempt 53 -> x2 = 106
+disgust 176 -> +73 =249
+fear 74 -> x2 = 148
+happy 206 + 40= 246
+neutral 180 + 60= 240
+sadness 83 +77 = 160
+surprise 248
